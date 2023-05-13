@@ -1,0 +1,28 @@
+.container
+{
+	text-align:center;
+	margin-top:23px;
+	background-color:black;
+}
+table
+{
+	margin:auto;
+
+}
+input
+{
+	font-size:30px;
+	height:47px;
+	width:427px;
+	border-radius:6px;
+}
+button 
+{
+	font-size:30px;
+	width:102px;
+	height:53px;
+}
+h1
+{
+	color:yellow;
+}
